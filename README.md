@@ -15,7 +15,7 @@ seal: "Ouro"                          # Entre as aspas escreve Bronze, Prata ou 
 
 ## Relatório de Auditoria
 
-Consulte aqui a última atualização: [Relatório do {{ page.website }}](report.html)
+Consulte aqui a última atualização: [Relatório do Relatório do Portal dos Territórios Inteligentes da ENTI](report.html)
 
 <details>
   <summary>Histórico de atualizações</summary>
