@@ -6,7 +6,7 @@ owner: "ENTI"         # Entre as aspas escrever o nome do owner do website
 seal: "Ouro"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 ---
 
-# {{ page.website }}
+# Portal dos Territórios Inteligentes (ENTI)
 
 - Data de criação: 24/02/2026
 - URL: https://territoriosinteligentes.gov.pt/
