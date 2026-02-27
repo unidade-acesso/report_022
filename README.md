@@ -1,17 +1,17 @@
 ---
-website: "Nome_do_sítio_Web"          # Entre as aspas escreve o nome do website
-date: "31/12/1999"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
-uri: "https://dominio_sitio_web.pt"   # Entre as aspas escreve o domínio do website
-owner: "Nome_do_proprietário"         # Entre as aspas escrever o nome do owner do website
+website: "Portal dos Territórios Inteligentes da ENTI"          # Entre as aspas escreve o nome do website
+date: "27/02/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
+uri: "[https://dominio_sitio_web.pt](https://territoriosinteligentes.gov.pt/)"   # Entre as aspas escreve o domínio do website
+owner: "ENTI"         # Entre as aspas escrever o nome do owner do website
 seal: "_Ouro_"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 ---
 
 # {{ page.website }}
 
-- Data de criação: {{ page.date }}
-- URL: {{ page.uri }}
-- Propriedade: {{ page.owner }}
-- Candidatura: {{ page.seal }}
+- Data de criação: 24/02/2026
+- URL: https://territoriosinteligentes.gov.pt/
+- Propriedade: ENTI
+- Candidatura: Ouro
 
 ## Relatório de Auditoria
 
