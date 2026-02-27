@@ -20,6 +20,6 @@ Consulte aqui a última atualização: [Relatório do {{ page.website }}](report
 <details>
   <summary>Histórico de atualizações</summary>
   <ul aria-label="lista de relatórios já efetuados">
-    <li><a href="ddmmaaaa_report.html">(dd/mm/aaaa). Relatório do {{ page.website }}</a></li>
+    <li><a href="ddmmaaaa_report.html">(dd/mm/aaaa). Relatório do Portal dos Territórios Inteligentes da ENTI</a></li>
   </ul>
 </details>
