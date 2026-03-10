@@ -10,7 +10,7 @@ seal: "Ouro"                          # Entre as aspas escreve Bronze, Prata ou 
 
 - Data de criação: 24/02/2026
 - URL: https://territoriosinteligentes.gov.pt/
-- Propriedade: ENTI
+- Propriedade: ARTE - Agência para a Reforma Tecnológica do Estado, I.P.
 - Candidatura: Ouro
 
 ## Relatório de Auditoria
