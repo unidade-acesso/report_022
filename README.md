@@ -2,7 +2,7 @@
 website: "Portal dos Territórios Inteligentes da ENTI"          # Entre as aspas escreve o nome do website
 date: "27/02/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://territoriosinteligentes.gov.pt/"   # Entre as aspas escreve o domínio do website
-owner: "ENTI"         # Entre as aspas escrever o nome do owner do website
+owner: "ARTE - Agência para a Reforma Tecnológica do Estado, I.P."         # Entre as aspas escrever o nome do owner do website
 seal: "Ouro"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 ---
 
